@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mahanmr21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahanmr21" height="30" width="40" /></a>
-<a href="https://t.me/mahanmr21" target="blank"><img align="center" src="https://th.bing.com/th/id/R.a01e8bc4cf2fc9c059426262a0c99230?rik=LhH2KW0rV5iK0Q&pid=ImgRaw&r=0" alt="mahanmr21" height="30" width="40" /></a>
+<a href="https://t.me/mahanmr21" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" alt="mahanmr21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
