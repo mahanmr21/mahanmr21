@@ -28,14 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahanmat&show_icons=true&theme=radical" alt="mahanmat's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanmat&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://t.me/mahanmr21" target="blank">
